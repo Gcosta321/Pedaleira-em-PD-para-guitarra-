@@ -1,4 +1,4 @@
-O meu projecto final de Síntese Sonoro para Media Digitais é a criação de uma pedaleira em pure data para uma guitarra.
-A pedaleira pode selecionar um ou vários efeitos. 
-Os efeitos disponíveis são Reverb, Delay, Overdrive(distorção), o efeito wah, vibrato e tremolo.
-A configuração do pure data tem como input o canal da guitarra através de uma interface virtual ou de uma placa de som.
+O meu projecto final de SÃ­ntese Sonoro para Media Digitais Ã© a criaÃ§Ã£o de uma pedaleira em Pure Data para uma guitarra.
+A pedaleira pode seleccionar um ou vÃ¡rios efeitos. 
+Os efeitos disponÃ­veis sÃ£o Reverb, Delay, Overdrive(distorÃ§Ã£o), o efeito wah, vibrato e tremolo. Alguns efeitos podem ter ser modificadas as caracterÃ­sticas de acordo com a preferÃªncia ou procura do utilizador.
+A configuraÃ§Ã£o do pure data tem como input o canal da guitarra atravÃ©s de uma interface virtual ou de uma placa de som.
